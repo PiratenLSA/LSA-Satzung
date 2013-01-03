@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Thu Jan 03 14:15:52 CET 2013
+markTmpDer=false
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=
+mainTexFile=lsa_satzung.tex
+outputFile=lsa_satzung.pdf
+langSpell=de
+markDer=false
+srcDir=
