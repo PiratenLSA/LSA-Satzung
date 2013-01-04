@@ -1,5 +1,5 @@
 #TeXlipse project settings
-#Thu Jan 03 14:15:52 CET 2013
+#Fri Jan 04 14:46:33 CET 2013
 markTmpDer=false
 builderNum=2
 outputDir=
@@ -7,7 +7,7 @@ makeIndSty=
 bibrefDir=
 outputFormat=pdf
 tempDir=
-mainTexFile=lsa_satzung.tex
+mainTexFile=lsa_satzung_praeambel.tex
 outputFile=lsa_satzung.pdf
 langSpell=de
 markDer=false
